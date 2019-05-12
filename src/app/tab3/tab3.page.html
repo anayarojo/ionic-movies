@@ -1,0 +1,22 @@
+<ion-header no-border>
+  <ion-toolbar>
+    <ion-title>
+      Favorites
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <div *ngFor="let genresMovie of genresMovies">
+    <ion-grid fixed>
+      <ion-row>
+        <ion-col>
+          <h4>{{ genresMovie.genre.name }}</h4>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+    <app-slideshow-poster [movies]="genresMovie.movies"></app-slideshow-poster>
+  </div>
+
+</ion-content>
