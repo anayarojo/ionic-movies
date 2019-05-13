@@ -1,6 +1,12 @@
 ## Ionic movies
 Aplicación hecha en ionic 4 con el objetivo de encontrar información de películas
 
+![Ionic 4 ─ Movies ─ Preview 1](https://raw.githubusercontent.com/anayarojo/ionic-movies/master/wiki/img/Ionic%204%20%E2%94%80%20Movies%20%E2%94%80%20Preview%201.PNG)
+
+![Ionic 4 ─ Movies ─ Preview 2](https://raw.githubusercontent.com/anayarojo/ionic-movies/master/wiki/img/Ionic%204%20%E2%94%80%20Movies%20%E2%94%80%20Preview%202.PNG)
+
+![Ionic 4 ─ Movies ─ Preview 3](https://raw.githubusercontent.com/anayarojo/ionic-movies/master/wiki/img/Ionic%204%20%E2%94%80%20Movies%20%E2%94%80%20Preview%203.PNG)
+
 ### Commands
 
 ```
